@@ -51,8 +51,6 @@ Open the URL printed in your terminal (usually `http://localhost:8501`) in a bro
 
 ## 🖼️ Screenshots
 
-> Replace the image paths below with your own screenshots stored in a `screenshots/` folder.
-
 | Home / Welcome                       | Chat in Action                        | Chat Reply                           |
 | ------------------------------------ | ------------------------------------- | ------------------------------------ |
 | ![Home Screen](screenshots/home.png) | ![Chat Session](screenshots/chat.png) | ![Chat Reply](screenshots/reply.png) |
